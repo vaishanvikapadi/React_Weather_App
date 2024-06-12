@@ -85,5 +85,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Project Preview
 
 
+![vaishanvikapadi_React_Weather_App - Google Chrome 12-06-2024 16_19_30](https://github.com/vaishanvikapadi/React_Weather_App/assets/113630888/5ffac829-b4b7-4025-aeb2-90958f12573b)
+
+
 
 
